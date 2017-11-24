@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-color: #182157
+}
+
+#scores {
+    position: absolute;
+    top: 920px;
+    left: 30px;
+    color: #ffffff;
+    font-size: 30px;
+}
+#scoresAster {
+    position: absolute;
+    top: 920px;
+    left: 420px;
+    color: #ffffff;
+    font-size: 30px;
+}
+#hp {
+    position: absolute;
+    top: 920px;
+    right: 30px;
+    color: #e20044;
+    font-size: 30px;
+}
+#beams {
+    position: absolute;
+    top: 920px;
+    right: 420px;
+    color: #ffffff;
+    font-size: 30px;
+}
+
+#background {
+    width: 100%; 
+}
